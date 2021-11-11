@@ -1,0 +1,18 @@
+[
+  {
+    "bookName": "Java",
+    "bookId": "B101",
+    "bookAuthor": "John",
+    "bookType": "Programming",
+    "bookPrice": "499",
+    "bookDesc": "Programming"
+  },
+  {
+    "bookName": "Php",
+    "bookId": "B102",
+    "bookAuthor": "Peter",
+    "bookType": "Web",
+    "bookPrice": "299",
+    "bookDesc": "Web"
+  }
+]
